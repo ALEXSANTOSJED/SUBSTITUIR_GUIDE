@@ -1,0 +1,7 @@
+TRANWRD(t1.ALUCPF, ".", "")
+
+FÓRMULA SUBSTITUIR SAS FORMULA
+
+Neste exemplo, imagina o cpf 345.232.123-38, então se aplico a fórmula acima na coluna CPF, então o retorno ficará assim: 345232123-38. Aí faz uma fórmula sobre essa substituindo o "-" por vazio, aí o resultado final ficará: 34523212338.
+Obrigado,
+Alex.
